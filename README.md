@@ -30,7 +30,7 @@ You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glo
 1. Click **Merge pull request**.
 1. Delete the branch `update-game` (optional).
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-dude i got to the "commit suggestions" step and the button didn't show up because i didnt click add suggestion (but then like why would they move me on to it i spent 15 minutes googling this shit and it's so stupid AGAUGHAHGAUGEHIUAHFOUAHWFOAHFIOUAHFIUSDH
+
 
 <footer>
 
